@@ -1,11 +1,11 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
 	<modelVersion>4.0.0</modelVersion>
-	<groupId>in.javahome</groupId>
+	<groupId>in.sadhik</groupId>
 	<artifactId>myweb</artifactId>
 	<packaging>war</packaging>
 	<version>8.3.2</version>
-	<name>Java Home myweb</name>
+	<name>sadhik myweb</name>
 	<url>http://maven.apache.org</url>
 	
 	<properties>
@@ -30,12 +30,12 @@
 	<distributionManagement>
 		 <snapshotRepository>
 		    <id>nexusRepo</id>
-		    <url>http://13.233.230.166:8081/repository/maven-snapshots/</url>
+		    <url>http://3.108.51.136:8080/repository/maven-snapshots/</url>
 		 </snapshotRepository>
 		
 		<repository>
 		    <id>nexusRepo</id>
-		    <url>http://13.233.230.166:8081/repository/maven-releases/</url>
+		    <url>http://http://3.108.51.136:8080/repository/maven-releases/</url>
 		</repository>
   	</distributionManagement>
 	
